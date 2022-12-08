@@ -11,12 +11,12 @@ Lens Protocol Docs: https://docs.lens.xyz/docs
 
 This simple social network was created using React, Chakra and Lens Protocol. It offers the possibility to log in and connect with your Metamask wallet. It offers the possibility of showing posts, following new friends and having a list of suggested friends. 
 
-# Configuration
+# Quick Launch
 
 1. Install all the dependencies with: `npm install` 
 2. Run the code with: `npm run start` 
 
-# Alternative 
+# Standard Configuration
 
 On terminal in project folder
 
