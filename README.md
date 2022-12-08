@@ -15,3 +15,12 @@ This simple social network was created using React, Chakra and Lens Protocol. It
 
 1. Install all the dependencies with: `npm install` 
 2. Run the code with: `npm run start` 
+
+# Alternative 
+
+On terminal in project folder
+
+1. `npx create-react-app app-name` 
+2. `npm i urql graphql ethers` 
+3. `npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion` 
+4. `npm run start`
